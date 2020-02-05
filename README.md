@@ -8,7 +8,7 @@
 
 ## :rocket: Technologies
 
--  [Node.js][nodejs]
+-  [Node.js](https://nodejs.org/en/)
 -  [Express](https://expressjs.com/)
 -  [nodemon](https://nodemon.io/)
 -  [Sucrase](https://github.com/alangpierce/sucrase)
@@ -29,7 +29,8 @@
 -  [date-fns](https://date-fns.org/)
 -  [Sentry](https://sentry.io/)
 -  [DotEnv](https://www.npmjs.com/package/dotenv)
--  [VS Code][vc] with [ESLint][vceslint]
+-  [VS Code](https://code.visualstudio.com/)
+-  [ESLint](https://eslint.org/)
 
 ## :information_source: How To Use
 
