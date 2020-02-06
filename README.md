@@ -6,6 +6,15 @@
     GoBarber API
 </h1>
 
+<h4 align="center">
+  A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
+</h4>
+<p align="center">
+
+  [![Build Status](https://travis-ci.com/michelspirlandeli/gobarber-api.svg?branch=master)](https://travis-ci.com/michelspirlandeli/gobarber-api)
+  
+</p>
+
 ## :rocket: Technologies
 
 -  [Node.js](https://nodejs.org/en/)
